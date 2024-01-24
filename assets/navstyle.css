@@ -1,0 +1,28 @@
+nav{
+    list-style-type: none;
+}
+.navbar ul{
+list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    background-color: blue;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    background-color: deeppink;
+}
+.navbar a:hover{
+    background-color: #847525;
+}
+.navbar a:hover{
+    background-color: blueviolet;
+}
+.navbar li{
+    float: left;
+}
